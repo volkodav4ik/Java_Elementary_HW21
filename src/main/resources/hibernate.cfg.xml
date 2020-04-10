@@ -23,7 +23,7 @@
 
         <property name="hibernate.connection.password">Piskun92</property>
 
-        <mapping class="com.company.model.Student"/>
+        <mapping class="com.volkodav4ik.model.User"/>
 
     </session-factory>
 </hibernate-configuration>
